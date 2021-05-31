@@ -1,1 +1,1 @@
-# ibr_bank
+# An addressbook with GUI in Java
